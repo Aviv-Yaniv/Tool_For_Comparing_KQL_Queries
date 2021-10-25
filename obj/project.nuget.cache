@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qgk9pLhhQSHGV+7n9+sOPM2MNh2cEqmQk2LTPzo95xWIOsWueSL+Z8X6W1jM5FvoFgC3s0u84fT1+6FW/RKLyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\avivyaniv\\OneDrive - Microsoft\\Documents\\@Tools\\CompareTables\\CompareTables.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\avivyaniv\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\avivyaniv\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\avivyaniv\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\avivyaniv\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

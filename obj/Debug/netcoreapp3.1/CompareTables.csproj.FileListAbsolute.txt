@@ -1,0 +1,14 @@
+C:\Users\avivyaniv\OneDrive - Microsoft\Documents\@Tools\CompareTables\bin\Debug\netcoreapp3.1\CompareTables.exe
+C:\Users\avivyaniv\OneDrive - Microsoft\Documents\@Tools\CompareTables\bin\Debug\netcoreapp3.1\CompareTables.deps.json
+C:\Users\avivyaniv\OneDrive - Microsoft\Documents\@Tools\CompareTables\bin\Debug\netcoreapp3.1\CompareTables.runtimeconfig.json
+C:\Users\avivyaniv\OneDrive - Microsoft\Documents\@Tools\CompareTables\bin\Debug\netcoreapp3.1\CompareTables.runtimeconfig.dev.json
+C:\Users\avivyaniv\OneDrive - Microsoft\Documents\@Tools\CompareTables\bin\Debug\netcoreapp3.1\CompareTables.dll
+C:\Users\avivyaniv\OneDrive - Microsoft\Documents\@Tools\CompareTables\bin\Debug\netcoreapp3.1\CompareTables.pdb
+C:\Users\avivyaniv\OneDrive - Microsoft\Documents\@Tools\CompareTables\obj\Debug\netcoreapp3.1\CompareTables.csproj.AssemblyReference.cache
+C:\Users\avivyaniv\OneDrive - Microsoft\Documents\@Tools\CompareTables\obj\Debug\netcoreapp3.1\CompareTables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avivyaniv\OneDrive - Microsoft\Documents\@Tools\CompareTables\obj\Debug\netcoreapp3.1\CompareTables.AssemblyInfoInputs.cache
+C:\Users\avivyaniv\OneDrive - Microsoft\Documents\@Tools\CompareTables\obj\Debug\netcoreapp3.1\CompareTables.AssemblyInfo.cs
+C:\Users\avivyaniv\OneDrive - Microsoft\Documents\@Tools\CompareTables\obj\Debug\netcoreapp3.1\CompareTables.csproj.CoreCompileInputs.cache
+C:\Users\avivyaniv\OneDrive - Microsoft\Documents\@Tools\CompareTables\obj\Debug\netcoreapp3.1\CompareTables.dll
+C:\Users\avivyaniv\OneDrive - Microsoft\Documents\@Tools\CompareTables\obj\Debug\netcoreapp3.1\CompareTables.pdb
+C:\Users\avivyaniv\OneDrive - Microsoft\Documents\@Tools\CompareTables\obj\Debug\netcoreapp3.1\CompareTables.genruntimeconfig.cache
