@@ -21,7 +21,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#comparators">Comparators</a></li>
-    <li><a href="#best-practices">Contributing</a></li>
+    <li><a href="#best-practices">Best Practices</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
