@@ -5,7 +5,7 @@
 <div>
   <p align="center">
     Want to refactor a KQL query and check that the new version is compatible? <br>
-    No more tedius manual comparing! This tool will judge if queries results are equvilant 
+    No more tedious manual comparing! This tool will judge if queries results are equivalent 
   </p>
 </div>
 
